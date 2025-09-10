@@ -1,3 +1,25 @@
 ### you should config your openai key in follow files:
  - /api/OpenAiApiTest.py
  - /views/OpenaiApi.py
+
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-0.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-1.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-2.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-3.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-4.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-5.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-6.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-7.jpg>)
+![alt text](<ppt/安卓课设答辩ppt -终稿-图片-8.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-9.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-10.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-11.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-12.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-13.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-14.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-15.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-16.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-17.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-18.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-19.jpg>)
+![alt text](<ppt/安卓课设答辩ppt - 终稿-图片-20.jpg>)
